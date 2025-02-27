@@ -21,15 +21,15 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '为声而生',
   HEO_HERO_TITLE_2: '期待你的来访',
   HEO_HERO_TITLE_3: 'Sound123.top',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_4: ' ',
+  HEO_HERO_TITLE_5: ' ',
+  HEO_HERO_TITLE_LINK: '#',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '无人声助眠', url: '/tag/有声故事' },
-  HEO_HERO_CATEGORY_2: { title: '睡前故事', url: '/tag/白噪音' },
+  HEO_HERO_CATEGORY_1: { title: '睡前故事', url: '/tag/有声故事' },
+  HEO_HERO_CATEGORY_2: { title: '无人声助眠', url: '/tag/白噪音' },
   HEO_HERO_CATEGORY_3: { title: '播客', url: '/tag/播客' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
@@ -53,7 +53,7 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://github.com/Ui888E/UI888E/wiki/Listen-to-the-world-with-your-voice',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
+  HEO_INFO_CARD_URL3: '#',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
