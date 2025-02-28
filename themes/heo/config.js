@@ -21,9 +21,9 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '为声而生',
   HEO_HERO_TITLE_2: '期待你的来访',
   HEO_HERO_TITLE_3: 'Sound123.top',
-  HEO_HERO_TITLE_4: ' ',
-  HEO_HERO_TITLE_5: ' ',
-  HEO_HERO_TITLE_LINK: '#',
+  HEO_HERO_TITLE_4: '看看更新了什么',
+  HEO_HERO_TITLE_5: 'Youtube频道',
+  HEO_HERO_TITLE_LINK: 'https://www.youtube.com/@sound123_top',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
