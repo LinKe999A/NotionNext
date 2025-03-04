@@ -53,7 +53,7 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://github.com/Ui888E/UI888E/wiki/Listen-to-the-world-with-your-voice',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: '#',
+  HEO_INFO_CARD_URL3: 'https://discord.gg/Vm3kWqczBd',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
